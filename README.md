@@ -4,7 +4,7 @@
 
 this repository contains the work of a project to remake Airbnb's amenity detection using the [Detectron2](https://github.com/facebookresearch/detectron2) object-detection model from FacebookAI.
 
-Amenity detection can be simply defined as object detection, but for common, everyday items. In this case, Airbnb uses detectron2 to identify items within a listing that a possible renter might want to know about. You can here more about the motivation behind this here: [Amenity Detection and Beyond](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e).
+Amenity detection can be simply defined as object detection, but for common, everyday items. In this case, Airbnb uses detectron2 to identify items within a listing that a possible renter might want to know about. You can learn more about the motivation behind this here: [Amenity Detection and Beyond](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e).
 
 #### App
 
